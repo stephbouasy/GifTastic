@@ -1,0 +1,26 @@
+.jumbotron {
+    background-image: url("https://hdqwalls.com/download/its-always-sunny-in-philadelphia-4k-tt-1366x768.jpg");
+    margin-left: 0%;
+}
+
+button {
+    background-color: green;
+    margin: 5px;
+}
+div {
+    margin: 5px;
+}
+
+.display-buttons {
+    color: green;
+    background-color: green;
+}
+label {
+    color: #fff;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+    background-color: green;
+}
